@@ -24,7 +24,7 @@ body {
 .card {
     background-color: var(--Grey-800);
     max-width: 26rem;
-    height: 600px;
+    height: 38rem;
     padding: 2.5rem;
     border-radius: 0.635rem;
     display: flex;
