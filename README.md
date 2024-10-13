@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/HM-Jubaer/social-links-profile)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://social-links-profile-bice-rho.vercel.app/)
 
 ## My process
 
